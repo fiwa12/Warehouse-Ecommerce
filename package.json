@@ -1,0 +1,42 @@
+{
+  "name": "simple-api-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "geolib": "^3.3.1",
+    "js-number-formatter": "^1.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.1",
+    "puppeteer-core": "^9.1.1",
+    "querystring": "^0.2.1",
+    "react-native-maps": "^0.27.1",
+    "sweetalert": "^2.1.2",
+    "uniqid": "^5.3.0",
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentwardhana33/simple-api-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentwardhana33/simple-api-structure/issues"
+  },
+  "homepage": "https://github.com/vincentwardhana33/simple-api-structure#readme"
+}
